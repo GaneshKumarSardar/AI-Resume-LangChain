@@ -55,8 +55,8 @@ st.sidebar.markdown("""
 
 <div class="social-icons">
     <a href="https://github.com/Singhrahul2511" target="_blank"><i class="fab fa-github"></i></a>
-    <a href="https://www.linkedin.com/in/rahul-kumar-8ab740268/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
-    <a href="https://www.instagram.com/singhrahul2.0/" target="_blank"><i class="fab fa-instagram"></i></a>
+    <a href="https://www.linkedin.com/in/ganesh-kumar-sardar-240188252/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+    <a href="https://www.instagram.com/heyy_sudhansu/" target="_blank"><i class="fab fa-instagram"></i></a>
 </div>
 """, unsafe_allow_html=True)
 
