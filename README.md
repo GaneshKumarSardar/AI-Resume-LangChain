@@ -84,7 +84,7 @@ https://livesoon......./
 
 ## 🏗️ Project Structure
 
-```bash
+```
 📦 ai-resume-interview-coach/
 ├── app.py
 ├── requirements.txt
@@ -99,4 +99,34 @@ https://livesoon......./
 └── utils/
     └── visualizer.py
 
+---
 
+## 🧠 Tech Stack
+---
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-AI-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PyMuPDF-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/python--docx-green?style=for-the-badge" />
+</p>
+
+---
+
+
+## 👨‍💻 Author
+---
+<p align="center">
+  <b>Ganesh Kumar Sardar</b><br><br>
+  
+  <a href="https://www.linkedin.com/in/ganesh-kumar-sardar-240188252" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="mailto:ganeshsardar2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+---bash
