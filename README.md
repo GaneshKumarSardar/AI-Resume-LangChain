@@ -69,7 +69,7 @@
 ## 🚀 Live Demo
 
 🔗 **Try it now:**  
-https://rahul12.streamlit.app/
+https://livesoon......./
 
 ---
 
