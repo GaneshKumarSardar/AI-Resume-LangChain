@@ -72,6 +72,15 @@
 https://livesoon......./
 
 ---
+---
+
+## 🧠 Architecture
+
+<p align="center">
+  <img src="demo/architecture.png" width="90%" />
+</p>
+
+---
 
 ## 🏗️ Project Structure
 
