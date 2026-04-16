@@ -98,3 +98,17 @@ https://livesoon......./
 │   └── simulator.py
 └── utils/
     └── visualizer.py
+
+## 👨‍💻 Author
+
+<p align="center">
+  <b>Ganesh Kumar Sardar</b><br><br>
+  
+  <a href="https://www.linkedin.com/in/ganesh-kumar-sardar-240188252" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="mailto:ganeshsardar2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
